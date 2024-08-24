@@ -7,7 +7,7 @@ namespace introducaoDotNet.Models
 {
     public class PessoaFisica
     {
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()
