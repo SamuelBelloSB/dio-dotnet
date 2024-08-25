@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\bin\Debug\net8.0\conversaoTipos.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\bin\Debug\net8.0\conversaoTipos.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\bin\Debug\net8.0\conversaoTipos.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\bin\Debug\net8.0\conversaoTipos.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\bin\Debug\net8.0\conversaoTipos.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\refint\conversaoTipos.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\conversaoTipos.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\conversaoTipos\obj\Debug\net8.0\ref\conversaoTipos.dll
