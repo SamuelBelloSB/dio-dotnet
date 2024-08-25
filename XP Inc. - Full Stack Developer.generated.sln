@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conversaoTipos", "conversaoTipos\conversaoTipos.csproj", "{24427DA8-46E5-4476-A213-E07AB5A2B41F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "introducaoDotNet", "introducaoDotNet\introducaoDotNet.csproj", "{CECDAC2C-63E0-44D6-B0A6-3AC70EE2529B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24427DA8-46E5-4476-A213-E07AB5A2B41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24427DA8-46E5-4476-A213-E07AB5A2B41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24427DA8-46E5-4476-A213-E07AB5A2B41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24427DA8-46E5-4476-A213-E07AB5A2B41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECDAC2C-63E0-44D6-B0A6-3AC70EE2529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECDAC2C-63E0-44D6-B0A6-3AC70EE2529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECDAC2C-63E0-44D6-B0A6-3AC70EE2529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECDAC2C-63E0-44D6-B0A6-3AC70EE2529B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3660CC01-73E5-4485-9027-F01FD041B11B}
+	EndGlobalSection
+EndGlobal
