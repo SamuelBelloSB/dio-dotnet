@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\bin\Debug\net8.0\condicionais.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\bin\Debug\net8.0\condicionais.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\bin\Debug\net8.0\condicionais.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\bin\Debug\net8.0\condicionais.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\bin\Debug\net8.0\condicionais.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\refint\condicionais.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\condicionais\obj\Debug\net8.0\ref\condicionais.dll
