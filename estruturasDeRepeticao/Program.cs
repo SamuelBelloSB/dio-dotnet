@@ -13,3 +13,12 @@ while (contador2 <= 10)
     Console.WriteLine($"{numero2} x {contador2} = {numero2 * contador2}");
     contador2++;
 }
+
+Console.WriteLine("\nRepetição utilizando Do While:");
+int numero3 = 5;
+int contador3 = 0;
+do
+{
+    Console.WriteLine($"{numero3} x {contador3} = {numero3 * contador3}");
+    contador3++;
+} while (contador3 <= 10);
