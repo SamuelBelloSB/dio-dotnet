@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "conversaoTipos", "conversao
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "introducaoDotNet", "introducaoDotNet\introducaoDotNet.csproj", "{E60CDC16-C561-4292-9DFF-FEFD0073B064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "introducaoDotNet.Common", "introducaoDotNet.Common\introducaoDotNet.Common.csproj", "{44387BDF-5EC0-4637-9CE6-6E93525BBD0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,14 @@ Global
 		{E60CDC16-C561-4292-9DFF-FEFD0073B064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E60CDC16-C561-4292-9DFF-FEFD0073B064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E60CDC16-C561-4292-9DFF-FEFD0073B064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44387BDF-5EC0-4637-9CE6-6E93525BBD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44387BDF-5EC0-4637-9CE6-6E93525BBD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44387BDF-5EC0-4637-9CE6-6E93525BBD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44387BDF-5EC0-4637-9CE6-6E93525BBD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8508C29-F458-483B-865A-D29B151F8509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8508C29-F458-483B-865A-D29B151F8509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8508C29-F458-483B-865A-D29B151F8509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8508C29-F458-483B-865A-D29B151F8509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

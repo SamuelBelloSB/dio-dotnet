@@ -1,4 +1,4 @@
-﻿using introducaoDotNet.Models;
+﻿using introducaoDotNet.Common.Models;
 
 PessoaFisica pessoa1 = new PessoaFisica();
 pessoa1.Nome = "Samuel";
