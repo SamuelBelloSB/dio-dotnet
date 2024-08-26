@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\bin\Debug\net8.0\estruturasDeRepeticao.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\bin\Debug\net8.0\estruturasDeRepeticao.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\bin\Debug\net8.0\estruturasDeRepeticao.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\bin\Debug\net8.0\estruturasDeRepeticao.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\bin\Debug\net8.0\estruturasDeRepeticao.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\refint\estruturasDeRepeticao.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\estruturasDeRepeticao.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\estruturasDeRepeticao\obj\Debug\net8.0\ref\estruturasDeRepeticao.dll
