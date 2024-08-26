@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\bin\Debug\net8.0\calculadora.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\bin\Debug\net8.0\calculadora.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\bin\Debug\net8.0\calculadora.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\bin\Debug\net8.0\calculadora.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\calculadora\obj\Debug\net8.0\ref\calculadora.dll
