@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\bin\Debug\net8.0\arraysEListas.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\bin\Debug\net8.0\arraysEListas.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\bin\Debug\net8.0\arraysEListas.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\bin\Debug\net8.0\arraysEListas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\bin\Debug\net8.0\arraysEListas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\refint\arraysEListas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\arraysEListas.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\sintaxeBasicaComDotNetC#\arraysEListas\obj\Debug\net8.0\ref\arraysEListas.dll
