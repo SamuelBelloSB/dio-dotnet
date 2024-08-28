@@ -2,7 +2,9 @@
 
 Pessoa pessoa1 = new Pessoa();
 
-
+Console.WriteLine("Digite seu nome:");
 pessoa1.Nome = Console.ReadLine();
-pessoa1.Apresentar();
 
+Console.WriteLine("Digite sua idade:");
+pessoa1.Idade = LerIntConsole.LerIntDoConsole();
+pessoa1.Apresentar();

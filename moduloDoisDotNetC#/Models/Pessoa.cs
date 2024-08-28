@@ -7,12 +7,37 @@ namespace moduloDoisDotNetC_.Models
 {
     public class Pessoa
     {
-        public string? Nome { get; set; }
-        public int Idade { get; set; }
+        private string? _nome;
+        private int _idade;
+
+        public string? Nome
+        { 
+            get => _nome.ToUpper();
+            set
+            {
+                if (value == "")
+                {
+                    throw new ArgumentException("O nome não pode ser vazio");
+                }
+                _nome = value;
+            } 
+        }
+        public int Idade
+        { 
+            get => _idade;
+            set
+            {
+                if (value < 0) 
+                {
+                    throw new ArgumentException("A idade inserida não pode ser menor que zero.");
+                }
+                _idade = value;
+            }
+        }
 
         public void Apresentar()
         {
-            Console.WriteLine($"Olá {Nome}");
+            Console.WriteLine($"Olá, seu nome é {_nome}; {_idade} anos");
         }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("moduloDoisDotNetC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7acf853359645c4876659ef0cefb2c486e849b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a6a3e897d8c07096d5b65ea1d14fbd7b8c070f")]
 [assembly: System.Reflection.AssemblyProductAttribute("moduloDoisDotNetC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("moduloDoisDotNetC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
