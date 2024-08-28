@@ -2,9 +2,17 @@
 
 Pessoa pessoa1 = new Pessoa();
 
-Console.WriteLine("Digite seu nome:");
-pessoa1.Nome = Console.ReadLine();
+pessoa1.Nome = "Samuel";
+pessoa1.Sobrenome = "Bello";
 
-Console.WriteLine("Digite sua idade:");
-pessoa1.Idade = LerIntConsole.LerIntDoConsole();
-pessoa1.Apresentar();
+Pessoa pessoa2 = new Pessoa();
+pessoa2.Nome = "Kazuha";
+pessoa2.Sobrenome = "Supremacy";
+
+Curso curso1 = new Curso();
+curso1.Nome = "C# curso";
+curso1.Alunos = new List<Pessoa>();
+
+curso1.AdicionarAluno(pessoa1);
+curso1.AdicionarAluno(pessoa2);
+curso1.ListaAluno();

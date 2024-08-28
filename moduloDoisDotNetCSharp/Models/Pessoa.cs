@@ -35,6 +35,9 @@ namespace moduloDoisDotNetCSharp.Models
             }
         }
 
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{_nome} {Sobrenome}";
+
         public void Apresentar()
         {
             Console.WriteLine($"Olá, seu nome é {_nome}; {_idade} anos");

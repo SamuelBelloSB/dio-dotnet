@@ -10,7 +10,7 @@ namespace moduloDoisDotNetCSharp.Models
         public string Nome { get; set; }
         public List<Pessoa> Alunos { get; set; }
 
-        void AdicionarAluno(Pessoa aluno)
+        public void AdicionarAluno(Pessoa aluno)
         {
             Alunos.Add(aluno);
         }
@@ -19,11 +19,18 @@ namespace moduloDoisDotNetCSharp.Models
             return Alunos.Remove(aluno);
         }
 
-
-        int ObterQuantidadeDeAlunosMatriculados ()
+        public int ObterQuantidadeDeAlunosMatriculados ()
         {
             int quantidade = Alunos.Count;
             return quantidade;
+        }
+
+        public void ListaAluno()
+        {
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
         }
     }
 }
