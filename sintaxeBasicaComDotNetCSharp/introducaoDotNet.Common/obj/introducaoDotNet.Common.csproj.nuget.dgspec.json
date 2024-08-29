@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj": {}
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj": {}
   },
   "projects": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj": {
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj",
+        "projectUniqueName": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj",
         "projectName": "introducaoDotNet.Common",
-        "projectPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj",
+        "projectPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\introducaoDotNet.Common.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\obj\\",
+        "outputPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\introducaoDotNet.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"

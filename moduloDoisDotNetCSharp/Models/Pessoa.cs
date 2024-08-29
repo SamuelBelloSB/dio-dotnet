@@ -11,7 +11,7 @@ namespace moduloDoisDotNetCSharp.Models
         private int _idade;
 
         public string? Nome
-        { 
+        {
             get => _nome.ToUpper();
             set
             {

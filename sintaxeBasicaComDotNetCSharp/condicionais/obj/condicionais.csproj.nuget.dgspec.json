@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj": {}
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj": {}
   },
   "projects": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj": {
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj",
+        "projectUniqueName": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj",
         "projectName": "condicionais",
-        "projectPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj",
+        "projectPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\condicionais.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\obj\\",
+        "outputPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\sintaxeBasicaComDotNetCSharp\\condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
