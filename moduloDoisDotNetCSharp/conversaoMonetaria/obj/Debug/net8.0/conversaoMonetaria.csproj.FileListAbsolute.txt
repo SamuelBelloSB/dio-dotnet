@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\bin\Debug\net8.0\conversaoMonetaria.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\bin\Debug\net8.0\conversaoMonetaria.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\bin\Debug\net8.0\conversaoMonetaria.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\bin\Debug\net8.0\conversaoMonetaria.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\bin\Debug\net8.0\conversaoMonetaria.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\refint\conversaoMonetaria.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\conversaoMonetaria.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\conversaoMonetaria\obj\Debug\net8.0\ref\conversaoMonetaria.dll

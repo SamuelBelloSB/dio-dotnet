@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\bin\Debug\net8.0\sintaxeBasicaModulo2.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\bin\Debug\net8.0\sintaxeBasicaModulo2.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\bin\Debug\net8.0\sintaxeBasicaModulo2.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\bin\Debug\net8.0\sintaxeBasicaModulo2.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\bin\Debug\net8.0\sintaxeBasicaModulo2.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\refint\sintaxeBasicaModulo2.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\sintaxeBasicaModulo2.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\sintaxeBasicaModulo2\obj\Debug\net8.0\ref\sintaxeBasicaModulo2.dll
