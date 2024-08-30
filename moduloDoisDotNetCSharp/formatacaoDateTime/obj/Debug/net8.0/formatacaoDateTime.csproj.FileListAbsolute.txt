@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\bin\Debug\net8.0\formatacaoDateTime.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\bin\Debug\net8.0\formatacaoDateTime.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\bin\Debug\net8.0\formatacaoDateTime.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\bin\Debug\net8.0\formatacaoDateTime.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\bin\Debug\net8.0\formatacaoDateTime.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\refint\formatacaoDateTime.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\formatacaoDateTime.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\formatacaoDateTime\obj\Debug\net8.0\ref\formatacaoDateTime.dll
