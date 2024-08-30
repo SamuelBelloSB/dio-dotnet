@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\bin\Debug\net8.0\excecoes.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\bin\Debug\net8.0\excecoes.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\bin\Debug\net8.0\excecoes.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\bin\Debug\net8.0\excecoes.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\bin\Debug\net8.0\excecoes.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\refint\excecoes.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\excecoes.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\excecoes\obj\Debug\net8.0\ref\excecoes.dll
