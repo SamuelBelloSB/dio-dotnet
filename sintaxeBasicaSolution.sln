@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construtores", "moduloDoisD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversaoMonetaria", "moduloDoisDotNetCSharp\conversaoMonetaria\conversaoMonetaria.csproj", "{76BDA95E-5662-4CA9-80DC-2748B0086719}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "representacaoPorcentagem", "moduloDoisDotNetCSharp\representacaoPorcentagem\representacaoPorcentagem.csproj", "{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{76BDA95E-5662-4CA9-80DC-2748B0086719}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76BDA95E-5662-4CA9-80DC-2748B0086719}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76BDA95E-5662-4CA9-80DC-2748B0086719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EFEF88F7-1405-4F2C-BACA-676533BA2FA0} = {223883A9-E926-4F41-BF04-268EC74174CE}
@@ -99,5 +105,6 @@ Global
 		{2E4B7752-A65E-4FD2-82CA-25E335A466E5} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 		{8FF5B4A8-D01F-424B-A7B5-0C82F29D7E87} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 		{76BDA95E-5662-4CA9-80DC-2748B0086719} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
+		{0DA603D9-1DF6-46CC-9F77-C96CDA7E1BF7} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 	EndGlobalSection
 EndGlobal

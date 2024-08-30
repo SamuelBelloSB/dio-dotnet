@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj": {}
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj": {}
   },
   "projects": {
-    "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj": {
+    "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj",
+        "projectUniqueName": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj",
         "projectName": "arrayEListas",
-        "projectPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj",
+        "projectPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\arrayEListas.csproj",
         "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-        "outputPath": "d:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\obj\\",
+        "outputPath": "D:\\estudosTi\\dio\\XP Inc. - Full Stack Developer\\moduloDoisDotNetCSharp\\arrayEListas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
