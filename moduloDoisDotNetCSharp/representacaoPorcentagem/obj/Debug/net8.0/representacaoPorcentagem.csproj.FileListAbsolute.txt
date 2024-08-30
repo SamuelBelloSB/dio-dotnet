@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\bin\Debug\net8.0\representacaoPorcentagem.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\bin\Debug\net8.0\representacaoPorcentagem.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\bin\Debug\net8.0\representacaoPorcentagem.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\bin\Debug\net8.0\representacaoPorcentagem.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\bin\Debug\net8.0\representacaoPorcentagem.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\refint\representacaoPorcentagem.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\representacaoPorcentagem.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\representacaoPorcentagem\obj\Debug\net8.0\ref\representacaoPorcentagem.dll
