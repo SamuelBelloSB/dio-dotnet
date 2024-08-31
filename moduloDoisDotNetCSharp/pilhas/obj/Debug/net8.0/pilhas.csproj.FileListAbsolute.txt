@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\bin\Debug\net8.0\pilhas.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\bin\Debug\net8.0\pilhas.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\bin\Debug\net8.0\pilhas.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\bin\Debug\net8.0\pilhas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\bin\Debug\net8.0\pilhas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\refint\pilhas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\pilhas.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\pilhas\obj\Debug\net8.0\ref\pilhas.dll
