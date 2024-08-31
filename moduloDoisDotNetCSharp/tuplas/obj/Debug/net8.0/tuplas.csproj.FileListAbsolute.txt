@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\bin\Debug\net8.0\tuplas.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\bin\Debug\net8.0\tuplas.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\bin\Debug\net8.0\tuplas.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\bin\Debug\net8.0\tuplas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\bin\Debug\net8.0\tuplas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\refint\tuplas.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\tuplas.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\tuplas\obj\Debug\net8.0\ref\tuplas.dll
