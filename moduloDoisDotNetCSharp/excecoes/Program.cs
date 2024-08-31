@@ -1,4 +1,6 @@
-﻿try
+﻿using excecoes.Models;
+
+try
 {
  
     string[] linhaLeitura = File.ReadAllLines("Arquivos/a/arquivo_Leitura.txt");
@@ -16,5 +18,10 @@ catch (DirectoryNotFoundException ex)
 {
     Console.WriteLine($"Ocorreu um erro na leitura do arquivo solicitado: Diretório não encontrado. {ex.Message}");
 }
-
-Console.WriteLine("Programa vei até aqui");
+finally
+{
+    // Finally sempre execurará!       
+    ExemploExcecao excecaoCriada = new ExemploExcecao();
+    excecaoCriada.Metodo1(); 
+    }
+Console.WriteLine("Programa veio até aqui");

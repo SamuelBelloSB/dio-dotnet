@@ -9,7 +9,15 @@ namespace excecoes.Models
     {
         public void Metodo1()
         {
-            Metodo2();
+            try
+            {
+                Metodo2();
+            }
+            catch (System.Exception ex)
+            {
+                
+                Console.WriteLine("Exceção tratada: "+ex.Message);
+            }
         }
         public void Metodo2()
         {
@@ -21,7 +29,7 @@ namespace excecoes.Models
         }
         public void Metodo4()
         {
-            throw new Exception("Ocorreu uma exceção");
+            throw new Exception("Ocorreu uma exceção criada");
         }
     }
 }
