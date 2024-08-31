@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\bin\Debug\net8.0\IFTernario.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\bin\Debug\net8.0\IFTernario.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\bin\Debug\net8.0\IFTernario.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\bin\Debug\net8.0\IFTernario.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\bin\Debug\net8.0\IFTernario.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\refint\IFTernario.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\IFTernario.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\IFTernario\obj\Debug\net8.0\ref\IFTernario.dll
