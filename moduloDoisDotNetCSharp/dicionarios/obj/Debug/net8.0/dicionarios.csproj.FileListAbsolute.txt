@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\bin\Debug\net8.0\dicionarios.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\bin\Debug\net8.0\dicionarios.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\bin\Debug\net8.0\dicionarios.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\bin\Debug\net8.0\dicionarios.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\bin\Debug\net8.0\dicionarios.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\refint\dicionarios.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\dicionarios.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\dicionarios\obj\Debug\net8.0\ref\dicionarios.dll
