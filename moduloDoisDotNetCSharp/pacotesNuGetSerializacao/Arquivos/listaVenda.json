@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "NomeProduto": "Mouse",
+    "Preco": 120.95,
+    "DataVenda": "2024-09-01T11:07:23.6627989-03:00"
+  },
+  {
+    "Id": 2,
+    "NomeProduto": "Teclado",
+    "Preco": 90.95,
+    "DataVenda": "2024-09-01T11:07:23.6627989-03:00"
+  }
+]
