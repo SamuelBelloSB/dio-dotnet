@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("filas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b50905a354c0cc02e9c972019ba5e1c530ab4a38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af4b99bec01733eb422d528c4e7f3f9ef403ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("filas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("filas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

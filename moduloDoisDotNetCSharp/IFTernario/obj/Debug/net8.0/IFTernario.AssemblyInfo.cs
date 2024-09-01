@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IFTernario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b63e1ace492ba360a6676e07b182930192103df8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af4b99bec01733eb422d528c4e7f3f9ef403ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IFTernario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IFTernario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
