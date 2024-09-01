@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFTernario", "moduloDoisDot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pacotesNuGetSerializacao", "moduloDoisDotNetCSharp\pacotesNuGetSerializacao\pacotesNuGetSerializacao.csproj", "{F3A45D4A-12D3-4B70-973F-8D2422E8E348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deserializacaoEAtributos", "moduloDoisDotNetCSharp\deserializacaoEAtributos\deserializacaoEAtributos.csproj", "{2EB2EF6C-C260-4746-A701-098C330FC330}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +142,10 @@ Global
 		{F3A45D4A-12D3-4B70-973F-8D2422E8E348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3A45D4A-12D3-4B70-973F-8D2422E8E348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3A45D4A-12D3-4B70-973F-8D2422E8E348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB2EF6C-C260-4746-A701-098C330FC330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB2EF6C-C260-4746-A701-098C330FC330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB2EF6C-C260-4746-A701-098C330FC330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB2EF6C-C260-4746-A701-098C330FC330}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EFEF88F7-1405-4F2C-BACA-676533BA2FA0} = {223883A9-E926-4F41-BF04-268EC74174CE}
@@ -162,5 +168,6 @@ Global
 		{87B8B768-8AE9-41D0-95F1-E057F41A8DA5} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 		{A039858F-DB0F-4E21-9B11-0287EF89D430} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 		{F3A45D4A-12D3-4B70-973F-8D2422E8E348} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
+		{2EB2EF6C-C260-4746-A701-098C330FC330} = {7291567D-2E4C-42B7-A80E-11262B3EE3CA}
 	EndGlobalSection
 EndGlobal
