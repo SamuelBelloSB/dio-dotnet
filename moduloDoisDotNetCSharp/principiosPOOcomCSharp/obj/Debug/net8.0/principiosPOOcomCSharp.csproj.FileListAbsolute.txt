@@ -1,0 +1,15 @@
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\bin\Debug\net8.0\principiosPOOcomCSharp.exe
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\bin\Debug\net8.0\principiosPOOcomCSharp.deps.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\bin\Debug\net8.0\principiosPOOcomCSharp.runtimeconfig.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\bin\Debug\net8.0\principiosPOOcomCSharp.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\bin\Debug\net8.0\principiosPOOcomCSharp.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.AssemblyInfoInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.AssemblyInfo.cs
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.csproj.CoreCompileInputs.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.sourcelink.json
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\refint\principiosPOOcomCSharp.dll
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.pdb
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\principiosPOOcomCSharp.genruntimeconfig.cache
+D:\estudosTi\dio\XP Inc. - Full Stack Developer\moduloDoisDotNetCSharp\principiosPOOcomCSharp\obj\Debug\net8.0\ref\principiosPOOcomCSharp.dll
