@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deserializacaoEAtributos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98daabe6fb4d5811a865282caa1666c04405fc79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13fc774b9ed8ba15c5950ac4a3d6bb0d024e4bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("deserializacaoEAtributos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deserializacaoEAtributos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
