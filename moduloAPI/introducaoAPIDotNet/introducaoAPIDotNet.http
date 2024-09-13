@@ -1,0 +1,6 @@
+@introducaoAPIDotNet_HostAddress = http://localhost:5170
+
+GET {{introducaoAPIDotNet_HostAddress}}/usuario/ObterDataHoraAtual
+Accept: application/json
+
+###
